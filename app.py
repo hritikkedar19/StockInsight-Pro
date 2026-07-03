@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 # 1. PAGE CONFIG & STYLING
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="StockInsight",
+    page_title="StockInsight Pro",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
