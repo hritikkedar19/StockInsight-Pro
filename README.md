@@ -1,4 +1,4 @@
-# 📈 StockInsight Pro
+# 📈 StockInsight
 
 > A Professional AI-Powered Stock Market Analysis & Price Prediction Dashboard built with Streamlit, Machine Learning, Plotly, and Yahoo Finance.
 
@@ -208,12 +208,6 @@ pip install -r requirements.txt
 ```
 
 Run the application
-
-```bash
-streamlit run app.py
-```
-
-or
 
 ```bash
 python -m streamlit run app.py
