@@ -277,38 +277,6 @@ Displays:
 
 ---
 
-# 📷 Screenshots
-
-## Dashboard
-
-> Add screenshot here
-
-```
-dashboard.png
-```
-
----
-
-## Prediction Page
-
-> Add screenshot here
-
-```
-prediction.png
-```
-
----
-
-## Company Information
-
-> Add screenshot here
-
-```
-assets/screenshots/info.png
-```
-
----
-
 # 🎯 Future Improvements
 
 - LSTM Deep Learning Prediction
@@ -334,14 +302,3 @@ Always perform your own research before making investment decisions.
 
 ---
 
----
-
-# ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub and share it with others!
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
