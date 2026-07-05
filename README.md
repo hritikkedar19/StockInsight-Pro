@@ -1,4 +1,4 @@
-# 📈 StockInsight Pro
+### 📈 StockInsight Pro
 
 > A Professional AI-Powered Stock Market Analysis & Price Prediction Dashboard built with Streamlit, Machine Learning, Plotly, and Yahoo Finance.
 
