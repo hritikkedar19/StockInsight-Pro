@@ -4,7 +4,7 @@
 
 ---
 
-# 🚀 Overview
+## 🚀 Overview
 
 StockInsight Pro is an end-to-end stock market analytics platform that provides:
 
